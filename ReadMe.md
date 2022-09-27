@@ -1,10 +1,7 @@
 # Desafio de programação - Node/Typescript
-
 Para copiar o projeto realize o processo de `fork` que está detalhado mais abaixo
 
-
 ## Como realizar o Fork
----
 Na página deste projeto, no canto superior direito é possivel ver 
 
 ![Localização Fork](./src/assets/docs/home-fork.png)
@@ -20,9 +17,6 @@ Ao confirmar a criação o Github irá criar o repositório. É possivel identif
 Este será o repositório que irá subir os ajustes do projeto e a url deste repositório deve ser enviado para que possamos avaliar o que foi feito.
 
 ## Após o Fork
-
----
-
 Após realizar o `fork`, clone o projeto do seu repositório para a sua maquina. Para fazer a cópia do projeto instale o [Git](https://git-scm.com/downloads) e rode o comando abaixo
 
 ```git
@@ -35,18 +29,12 @@ A URL do repositório pode ser encontrado no botão `code` em verde conforme ima
 
 
 ## Como rodar o projeto
-
----
-
 Para rodar este projeto é necessário que a maquina tenha o [Node](https://nodejs.org/en/) instalado. **Para evitar problemas, sugerimos que instale a versão LTS**
 
 Para realizar a instalação das dependências utilize o comando `npm install` e para rodar o projeto em sua maquina utilize o comando `npm run dev:server`
 
 
 ## Entrega
-
----
-
 A entrega desde projeto será o próprio projeto.
 
 Neste projeto temos uma base de código utilizando Node com Typescript. Este projeto tambem contem dois arquivos `.md`, sendo que o `Questoes.md` contem as solicitações voltadas para Programação e o `Questoes_SQL.md` contem as questões de SQL. 
