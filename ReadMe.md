@@ -29,7 +29,7 @@ A URL do repositório pode ser encontrado no botão `code` em verde conforme ima
 
 
 ## Como rodar o projeto
-Para rodar este projeto é necessário que a maquina tenha o [Node](https://nodejs.org/en/) instalado. **Para evitar problemas, sugerimos que instale a versão LTS**
+Para rodar este projeto é necessário que a maquina tenha o [NodeJS](https://nodejs.org/en/) instalado. **Para evitar problemas, sugerimos que instale a versão LTS**
 
 Para realizar a instalação das dependências utilize o comando `npm install` e para rodar o projeto em sua maquina utilize o comando `npm run dev:server`
 
